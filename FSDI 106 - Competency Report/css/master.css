@@ -1,0 +1,56 @@
+html body {
+  background-color: #c7f0db;
+}
+
+h1{
+  padding-bottom: 2%;
+  font-weight: bold;
+  font-family: 'Kaushan Script', cursive;
+}
+h3{
+  padding-bottom: 2%;
+  font-weight: bold;
+  font-family: 'Kaushan Script', cursive;
+}
+
+ p{
+  font-family: 'Kaushan Script', cursive;
+
+ }
+li{
+
+  width: 50%;
+ font-family: 'Bowlby One SC', cursive;
+ padding: 0;
+ text-align: center;
+}
+li:hover{
+  color:  black;
+  background-color: #3e64ff;
+
+
+}
+
+
+
+
+
+input{
+  font-family: 'Kaushan Script', cursive;
+}
+
+.jq-logo{
+  width: 12%;
+  height: 12%;
+
+}
+
+.jq-logo:hover{
+  transform: rotateX(-360deg);
+
+}
+.jv-jq{
+  width: 8%;
+  height: 8%;
+  padding: 0;
+}
